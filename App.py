@@ -15,7 +15,7 @@ shape = img.shape
 '''
 Compression
 '''
-#seperate image into 8 * 8 chunks
+#separate image into 8 * 8 chunks
 
 chunks = []
 
